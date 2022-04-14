@@ -1,10 +1,13 @@
-import { createApp } from 'vue';
+import { createApp } from "vue";
 
-import App from './App.vue';
+import App from "./App.vue";
 
 const test = {
-  name: 'age',
-  age: 12
+	name: "age",
+	age: 12,
 };
 
-createApp(App).mount('#app');
+createApp(App).mount("#app");
+const testObj = {
+	a: "nam",
+};
