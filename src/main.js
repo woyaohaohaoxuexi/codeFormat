@@ -11,3 +11,4 @@ createApp(App).mount("#app");
 const testObj = {
 	a: "nam",
 };
+const str = 'sdfsdt'
