@@ -12,3 +12,4 @@ const testObj = {
 	a: "nam",
 };
 const str = 'sdfsdt'
+const add = 'add'
