@@ -1,7 +1,7 @@
 /*
  * @Author: Ln
  * @Date: 2022-04-23 08:46:00
- * @LastEditTime: 2022-04-24 21:19:59
+ * @LastEditTime: 2022-04-24 21:25:21
  * @LastEditors: Ln
  * @Description:
  * @FilePath: \codeFormat\src\main.js
@@ -21,14 +21,14 @@ import App from './App.vue';
 
 const test = {
 	name: 'age',
-	age: 12
+	age: 12,
 };
 
 const arr1 = [
 	'sfsdgwer',
 	'gstwerwedffffffffffsgsd',
 	'sgtwetweeeeeeeeee',
-	'setttttttttttttttttttttttttttt'
+	'setttttttttttttttttttttttttttt',
 ];
 
 const fn = ({ name, age, sdf }) => {
@@ -37,18 +37,18 @@ const fn = ({ name, age, sdf }) => {
 };
 const params = {
 	name: '张三',
-	age: 12
+	age: 12,
 };
 fn({
 	name: 'ssggasdfd',
-	age: 12
+	age: 12,
 });
 
 const arr = [1, 2, 3];
 
 createApp(App).mount('#app');
 const testObj = {
-	a: 'nam'
+	a: 'nam',
 };
 const str = 'sdfsdt';
 const add = 'add';
